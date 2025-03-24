@@ -1,4 +1,4 @@
-2x2 Radio Uljanovsk      Bank 10 Stacja 1   http://95.104.192.220:8001/radio2x2.ogg
+2na2 Radio Uljanovsk     Bank 10 Stacja 1   http://95.104.192.220:8001/radio2x2.ogg
 Agaune Radio             Bank 10 Stacja 2   http://ecmanager3.pro-fhi.net:2640/stream
 Ally-Radio               Bank 10 Stacja 3   http://everestcast.streams.ovh:2300/stream
 Chaos Radio              Bank 10 Stacja 4   http://5.135.177.61:8000/;stream/1
