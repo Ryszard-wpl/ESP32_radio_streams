@@ -1,8 +1,8 @@
 TOK FM	                  Bank 17 Stacja 1 http://radiostream.pl/tuba10-1.mp3
 Jazz_24	                  Bank 17 Stacja 2 https://prod-3-237-99-86.amperwave.net/ppm-jazz24aac256-ibc1?session-id=18d58e2f809796404c60f62e3227c74e
-Radio Jazz.fm	            Bank 17 Stacja 3 https://radiojazz.out.airtime.pro/radiojazz_a
-Polskie Radio Kierowcow	  Bank 17 Stacja 4 https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
-CMC	                      Bank 17 Stacja 5 http://radio-stream.cmc.com.hr:8001/stream
+Radio Jazz.fm	          Bank 17 Stacja 3 https://radiojazz.out.airtime.pro/radiojazz_a
+Polskie Radio Kierowcow	 Bank 17 Stacja 4 https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
+CMC	                     Bank 17 Stacja 5 http://radio-stream.cmc.com.hr:8001/stream
 CMC Lagano	              Bank 17 Stacja 6 http://radio-stream.cmc.com.hr:8030/autodj
 CMC Yugoton	              Bank 17 Stacja 7 http://radio-stream.cmc.com.hr:8020/autodj
 Laganini FM	              Bank 17 Stacja 8 http://radio-stream.cmc.com.hr:8001/stream
