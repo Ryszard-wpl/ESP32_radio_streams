@@ -1,28 +1,28 @@
-TOK FM	                Bank 17 Stacja 1 http://radiostream.pl/tuba10-1.mp3
-Jazz_24	                Bank 17 Stacja 2 https://prod-3-237-99-86.amperwave.net/ppm-jazz24aac256-ibc1?session-id=18d58e2f809796404c60f62e3227c74e
-Radio Jazz.fm	          Bank 17 Stacja 3 https://radiojazz.out.airtime.pro/radiojazz_a
-Polskie Radio Kierowcow	Bank 17 Stacja 4 https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
-CMC	                    Bank 17 Stacja 5 http://radio-stream.cmc.com.hr:8001/stream
-CMC Lagano	            Bank 17 Stacja 6 http://radio-stream.cmc.com.hr:8030/autodj
-CMC Yugoton	            Bank 17 Stacja 7 http://radio-stream.cmc.com.hr:8020/autodj
-Laganini FM	            Bank 17 Stacja 8 http://radio-stream.cmc.com.hr:8001/stream
-Studio Poreè	          Bank 17 Stacja 9 https://radiocentar.hr:8282/stream.aac
-Radio Paradise Mellow f Bank 17 Stacja 10 http://stream.radioparadise.com/mellow-flacm
-Radio Studio 99 Sarajev Bank 17 Stacja 11 https://c2.radioboss.fm:18249/stream
-Big Radio 2	            Bank 17 Stacja 12 http://big1.bigportal.ba:8100/live3
-Chilli ZET Deep         Bank 17 Stacja 13 http://ch02.cdn.eurozet.pl/CHIDEP.mp3
-Chillout Radio	        Bank 17 Stacja 14 http://panel.nadaje.com:9004/
-Radio Paradise Main	    Bank 17 Stacja 15 https://stream.radioparadise.com/aac-320
-Radio Paradise Melow	  Bank 17 Stacja 16 https://stream.radioparadise.com/mellow-320
-Radio Paradise World	  Bank 17 Stacja 17 https://stream.radioparadise.com/world-etc-320
-Radio Paradise Rock	    Bank 17 Stacja 18 https://stream.radioparadise.com/rock-320
-FFH niemcy aac	        Bank 17 Stacja 19 http://mp3.ffh.de/radioffh/hqlivestream.aac
-Latte Mielle Grieca     Bank 17 Stacja 20 http://sr6.inmystream.info:8058/
-MagicFM Germany	        Bank 17 Stacja 21 https://stream.laut.fm/magicfm
-Klassic Piano	          Bank 17 Stacja 22 https://stream.klassikradio.de/piano/mp3-128
-Pacefull Piano	        Bank 17 Stacja 23 https://peacefulpiano.stream.publicradio.org/peacefulpiano.mp3
-Classical Violin	      Bank 17 Stacja 24 http://247house.fm:10007/stream
-Epic Violin 192	        Bank 17 Stacja 25 https://stream1-epic-classical.radiohost.de/classical-violin
-Classical	              Bank 17 Stacja 26 https://ice-sov.musicradio.com/ClassicFMMP3
-Classic  Radio	        Bank 17 Stacja 27 https://online.classicradio.com.ua/ClassicRadio
-Klassic 1	              Bank 17 Stacja 28 https://icepool.silvacast.com/KLASSIK1.mp3
+TOK FM	                  Bank 17 Stacja 1 http://radiostream.pl/tuba10-1.mp3
+Jazz_24	                  Bank 17 Stacja 2 https://prod-3-237-99-86.amperwave.net/ppm-jazz24aac256-ibc1?session-id=18d58e2f809796404c60f62e3227c74e
+Radio Jazz.fm	            Bank 17 Stacja 3 https://radiojazz.out.airtime.pro/radiojazz_a
+Polskie Radio Kierowcow	  Bank 17 Stacja 4 https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
+CMC	                      Bank 17 Stacja 5 http://radio-stream.cmc.com.hr:8001/stream
+CMC Lagano	              Bank 17 Stacja 6 http://radio-stream.cmc.com.hr:8030/autodj
+CMC Yugoton	              Bank 17 Stacja 7 http://radio-stream.cmc.com.hr:8020/autodj
+Laganini FM	              Bank 17 Stacja 8 http://radio-stream.cmc.com.hr:8001/stream
+Studio Poreè	            Bank 17 Stacja 9 https://radiocentar.hr:8282/stream.aac
+Radio Paradise Mellow f   Bank 17 Stacja 10 http://stream.radioparadise.com/mellow-flacm
+Radio Studio 99 Sarajev   Bank 17 Stacja 11 https://c2.radioboss.fm:18249/stream
+Big Radio 2	              Bank 17 Stacja 12 http://big1.bigportal.ba:8100/live3
+Chilli ZET Deep           Bank 17 Stacja 13 http://ch02.cdn.eurozet.pl/CHIDEP.mp3
+Chillout Radio	          Bank 17 Stacja 14 http://panel.nadaje.com:9004/
+Radio Paradise Main	      Bank 17 Stacja 15 https://stream.radioparadise.com/aac-320
+Radio Paradise Melow	    Bank 17 Stacja 16 https://stream.radioparadise.com/mellow-320
+Radio Paradise World	    Bank 17 Stacja 17 https://stream.radioparadise.com/world-etc-320
+Radio Paradise Rock	      Bank 17 Stacja 18 https://stream.radioparadise.com/rock-320
+FFH niemcy aac	          Bank 17 Stacja 19 http://mp3.ffh.de/radioffh/hqlivestream.aac
+Latte Mielle Grieca       Bank 17 Stacja 20 http://sr6.inmystream.info:8058/
+MagicFM Germany	          Bank 17 Stacja 21 https://stream.laut.fm/magicfm
+Klassic Piano	            Bank 17 Stacja 22 https://stream.klassikradio.de/piano/mp3-128
+Pacefull Piano	          Bank 17 Stacja 23 https://peacefulpiano.stream.publicradio.org/peacefulpiano.mp3
+Classical Violin	        Bank 17 Stacja 24 http://247house.fm:10007/stream
+Epic Violin 192	          Bank 17 Stacja 25 https://stream1-epic-classical.radiohost.de/classical-violin
+Classical	                Bank 17 Stacja 26 https://ice-sov.musicradio.com/ClassicFMMP3
+Classic  Radio	          Bank 17 Stacja 27 https://online.classicradio.com.ua/ClassicRadio
+Klassic 1	                Bank 17 Stacja 28 https://icepool.silvacast.com/KLASSIK1.mp3
