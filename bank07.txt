@@ -1,22 +1,21 @@
-Polskie Radio Jedynka    Bank 7 Stacja 1   http://stream3.polskieradio.pl:8950
-Polskie Radio Dwojka     Bank 7 Stacja 2   http://stream3.polskieradio.pl:8952
-
-Polskie Radio Czworka    Bank 7 Stacja 3   http://stream3.polskieradio.pl:8956
-Polskie Radio 24         Bank 7 Stacja 4   http://stream3.polskieradio.pl:8480
-Polskie Radio Chopin     Bank 7 Stacja 5   http://stream3.polskieradio.pl:8960
-Polskie Radio Dzieciom   Bank 7 Stacja 6   http://stream3.polskieradio.pl:8966
-Polskie Radio Kierowcow  Bank 7 Stacja 7   http://stream3.polskieradio.pl:8968
-Polskie Radio Archeologi Bank 7 Stacja 8   http://stream3.polskieradio.pl:8514
-Bohaterowie lektur       Bank 7 Stacja 9   http://stream3.polskieradio.pl:8484
-Cafe Fogg                Bank 7 Stacja 10  http://stream3.polskieradio.pl:8418
-Polskie Radio Ciechowski Bank 7 Stacja 11  http://stream3.polskieradio.pl:8412
-Polskie Radio Genesis    Bank 7 Stacja 12  http://stream3.polskieradio.pl:8574
-Historia najnowsza Pol.  Bank 7 Stacja 13  http://stream3.polskieradio.pl:8482
-Historia ZSRR            Bank 7 Stacja 14  http://stream3.polskieradio.pl:8512
-Jan Pawel II w Radiach   Bank 7 Stacja 15  http://stream3.polskieradio.pl:8580
-Koncerty w Trojce        Bank 7 Stacja 16  http://stream3.polskieradio.pl:8410
-Konkurs Chopinowski      Bank 7 Stacja 17  http://stream3.polskieradio.pl:8422
-Polskie Radio Kosmos     Bank 7 Stacja 18  http://stream3.polskieradio.pl:8408
+TOK FM	                 Bank 7 Stacja 1 http://radiostream.pl/tuba10-1.mp3
+Jazz_24	                 Bank 7 Stacja 2 https://prod-3-237-99-86.amperwave.net/ppm-jazz24aac256-ibc1?session-id=18d58e2f809796404c60f62e3227c74e
+Radio Jazz.fm	           Bank 7 Stacja 3 https://radiojazz.out.airtime.pro/radiojazz_a
+Polskie Radio Kierowcow  Bank 7 Stacja 4 https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
+CMC	                     Bank 7 Stacja 5 http://radio-stream.cmc.com.hr:8001/stream
+CMC Lagano	             Bank 7 Stacja 6 http://radio-stream.cmc.com.hr:8030/autodj
+CMC Yugoton	             Bank 7 Stacja 7 http://radio-stream.cmc.com.hr:8020/autodj
+Laganini FM	             Bank 7 Stacja 8 http://radio-stream.cmc.com.hr:8001/stream
+Studio Poreè	           Bank 7 Stacja 9 https://radiocentar.hr:8282/stream.aac
+Radio Paradise Mellow f  Bank 7 Stacja 10 http://stream.radioparadise.com/mellow-flacm
+Radio Studio 99 Sarajev  Bank 7 Stacja 11 https://c2.radioboss.fm:18249/stream
+Big Radio 2	             Bank 7 Stacja 12 http://big1.bigportal.ba:8100/live3
+Chilli ZET Deep          Bank 7 Stacja 13 http://ch02.cdn.eurozet.pl/CHIDEP.mp3
+Chillout Radio	         Bank 7 Stacja 14 http://panel.nadaje.com:9004/
+Radio Paradise Main	     Bank 7 Stacja 15 https://stream.radioparadise.com/aac-320
+Radio Paradise Melow	   Bank 7 Stacja 16 https://stream.radioparadise.com/mellow-320
+Radio Paradise World	   Bank 7 Stacja 17 https://stream.radioparadise.com/world-etc-320
+Radio Paradise Rock	     Bank 7 Stacja 18 https://stream.radioparadise.com/rock-320
 Polskie Radio Las        Bank 7 Stacja 19  http://stream3.polskieradio.pl:8528
 Polskie Radio Minimax    Bank 7 Stacja 20  http://stream3.polskieradio.pl:8446
 Muzyka zrodel            Bank 7 Stacja 21  http://stream3.polskieradio.pl:8558
